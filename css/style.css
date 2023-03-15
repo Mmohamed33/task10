@@ -1,0 +1,30 @@
+.body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #e1f5fe;
+}
+
+.container{
+    background-color: #e1f5fe;
+}
+.section1{
+    margin-top: 20px;
+}
+/* .section1 .section2 .section3 .section4{
+
+    display: none;
+} */
+.section2{
+    display:none;
+}
+.section3{
+    display: none;
+}
+.section4{
+    display: none;
+}
+/* div{
+    display: none; */
+
+button{
+    display: block;
+}
